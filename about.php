@@ -14,9 +14,9 @@
         <hr>
         
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html"><b>About</b></a>
-            <a href="contact.html">Contact Me</a>
+            <a href="index.php">Home</a>
+            <a href="about.php"><b>About</b></a>
+            <a href="contact.php">Contact Me</a>
         </nav>
         
         <div id="content">
