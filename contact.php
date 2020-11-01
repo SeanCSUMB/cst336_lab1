@@ -14,29 +14,14 @@
         <hr>
         
         <nav>
-            <a href="index.html"><b>Home</b></a>
+            <a href="index.html">Home</a>
             <a href="about.html">About</a>
-            <a href="contact.html">Contact Me</a>
+            <a href="contact.html"><b>Contact Me</b></a>
         </nav>
         
-        <main>
-            
-            <figure>
-                <img src="img/SeanPic.jpg" width="100" alt="A pic of Sean! It is heavily filtered, however, so it is hard to tell what he looks like.">
-            </figure>
-            
-            <div>
-                <br>Hello, fellow students!<br>
-                <p>My name is Sean Wilson. I am currently a computer science student
-                taking a class on programming internet applications. My photograph is here, although I put
-                a filter on it to make it hard to tell what I look like.</p>
-                
-                Feel free to look around!
-                
-                <br>
-            </div>
-            
-        </main>
+        <div id="content">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGZqvwaVAUxL15e_zqaMdyS-2wjPGmkG6xkJIdQCg5acb_fw/viewform?embedded=true" width="640" height="702" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </div>
         
         <footer>
             <hr>
